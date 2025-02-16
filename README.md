@@ -1,6 +1,5 @@
 # Car-Sales-DAshboard
-Title: Building a Car Sales Dashboard for Business Insights
-Introduction In today’s data-driven world, businesses rely on insights from historical data to make informed decisions. As a data analyst, I undertook the task of developing a Power BI dashboard to analyze car sales trends from previous years to date. This dashboard provides valuable insights into customer demographics, dealer performance, pricing trends, and regional sales distribution.
+In today’s data-driven world, businesses rely on insights from historical data to make informed decisions. As a data analyst, I undertook the task of developing a Power BI dashboard to analyze car sales trends from previous years to date. This dashboard provides valuable insights into customer demographics, dealer performance, pricing trends, and regional sales distribution.
 Understanding the Dataset The dataset comprises multiple attributes related to car sales, including customer details, dealer information, car specifications, and financials. Some key fields included:
 •	Car ID and Date: Unique identifier for each sale and its timestamp.
 •	Customer Name and Gender: Helps in understanding demographics.
